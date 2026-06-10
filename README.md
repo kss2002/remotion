@@ -1,4 +1,4 @@
-## Remotion video
+## Remotion / 영상은 이미지의 연속이다.
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
